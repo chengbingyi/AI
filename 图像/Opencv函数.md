@@ -45,6 +45,8 @@ def cv_show(name,img):
 	cv.waitKey(0)
 	cv.destroyAllwindows()
 ```
+## 3. 修改图片尺寸
+cv.resize()
 
 
 
